@@ -15,10 +15,9 @@ Every day we hear different sounds from different sources. We can recognize seve
 
 # Installation and Setup
 
-- Google Colab
-
 ## Codes and Resources Used
 - Python 2.7 and up
+- Google Colab
 
 ## Python Packages Used
 - **General Purpose:** General purpose packages like `urllib, os, request`, and many more.
